@@ -53,7 +53,7 @@ Installation
 Clone repository:
 
 text
-git clone https://github.com/Uniflow/uniflow.git
+git clone https://github.com/infotech-product/uniflow.git
 Import database schema from /uniflow_db.sql
 
 Configure connection in /config.php:
@@ -118,5 +118,8 @@ Expanded financial wellness features
 Additional university integrations
 
 Advanced AI risk modeling
+
+Admin Cred: username:admin
+            password:admin@123A
 
 This README provides a comprehensive overview of the UniFlow system. For detailed implementation guides or security protocols, please contact the development team.
